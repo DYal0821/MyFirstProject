@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="putih">#fffff</color>
-    <color name="item">#000000</color>
-    <color name="menu_awal">#f42374</color>
-    <color name="list_barang">#373525</color>
-    <color name="bismillah">#315345</color>
+<color name="colorPrimary">#008577</color>
+<color name="colorPrimaryDark">#00574B</color>
+<color name="colorAccent">#D81B60</color>
+<color name="putih">#fffff</color>
+<color name="item">#000000</color>
+<color name="menu_awal">#f42374</color>
+<color name="list_barang">#373525</color>
+<color name="bismillah">#315345</color>
 </resources>
